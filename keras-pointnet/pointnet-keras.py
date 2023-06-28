@@ -69,7 +69,7 @@ fig = plt.figure(figsize=(5, 5))
 ax = fig.add_subplot(111, projection="3d")
 ax.scatter(points[:, 0], points[:, 1], points[:, 2])
 ax.set_axis_off()
-# plt.show()
+plt.show()
 
 
 # %%
