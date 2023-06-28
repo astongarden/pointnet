@@ -274,7 +274,8 @@ checkpoint = ModelCheckpoint(
     mode="auto"
 )  
 
-model.save_weights("saved_weight.h5")
+new_save_path = "/pointnet/result/saved_weight.h5"
+model.save_weights(new_save_path)
 
 
 history = model.fit(train_dataset, epochs=50, validation_data=test_dataset )
