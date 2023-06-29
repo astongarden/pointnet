@@ -11,9 +11,9 @@ from __future__ import print_function, division, absolute_import, unicode_litera
 # Add working directory to search path
 import os
 import sys
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname('/home/jeongil/Downloads/data')
 sys.path.append(BASE_DIR)
-PROJ_DIR = os.path.dirname(BASE_DIR)
+PROJ_DIR = BASE_DIR
 
 # Tensorflow & Numpy
 import tensorflow as tf
