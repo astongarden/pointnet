@@ -61,7 +61,7 @@ dataset link "https://git.io/JiY4i" is error(code 502), so change the link.
 """
 # 'ftp://cs.stanford.edu/cs/cvgl/PASCAL3D+_release1.0.zip'
 
-dataset_url = 'https://git.io/Jiy4i'
+dataset_url = 'ftp://cs.stanford.edu/cs/cvgl/PASCAL3D+_release1.0.zip'
 
 dataset_path = keras.utils.get_file(
     fname="shapenet.zip",
