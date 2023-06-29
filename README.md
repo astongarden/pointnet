@@ -1,17 +1,17 @@
-# pointnet
+# pointnet CODE(PYTHON)
 
-POINTNET CODE(python)
-
-pointnet-paper
+POINTNET-PAPER
 - 논문 저자가 제공하는 pointnet classification과 part segmentation, semantic segmentation
+- TENSORFLOW 1.0, PYTHON 2.7, CUDA 8.0, cuDNN 5.1 사용
 - 링크 : https://github.com/charlesq34/pointnet
 
-kears-pointnet
+KERAS-POINTNET
 - keras에서 제공된 pointnet classification과 part segmentation
-- ROS2 FOXY 와 TENSORFLOW2 사용
+- TENSORFLOW 2 이용
 - 링크 : https://keras.io/examples/vision/pointnet/                 'classification'
 - 링크 : https://keras.io/examples/vision/pointnet_segmentation/    'part segmentation'
 
-pointnet-tf2
-- YoungsonZhao 제공하는 pointnet code, TENSORFLOW2를 이용해 code 작성
+POINTNET-TF2
+- YoungsonZhao 제공하는 pointnet code
+- TENSORFLOW 2 이용
 - 링크 : https://github.com/YoungsonZhao/pointnet-tf2
