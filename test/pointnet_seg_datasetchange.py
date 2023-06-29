@@ -57,7 +57,7 @@ For this example, we use one of the 12 object categories of
 [PASCAL 3D+](http://cvgl.stanford.edu/projects/pascal3d.html),
 included as part of the ShapenetCore dataset.
 
-dataset link "https://git.io/JiY4i" is error(code 502), so change the link.
+dataset link "https://git.io/JiY4i" is error(Bad Gateway), so change the link.
 """
 # 'ftp://cs.stanford.edu/cs/cvgl/PASCAL3D+_release1.0.zip'
 
