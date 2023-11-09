@@ -23,5 +23,5 @@ POINTNET-TF2
 
 POINTNET2-TF2
 - YoungsonZhao 제공하는 pointnet code
-- TENSORFLOW 2 이용
+- TENSORFLOW 2 이용 , python >= 3.0, tensorflow-gpu >= 2.2+
 - 링크 : https://github.com/dgriffiths3/pointnet2-tensorflow2
